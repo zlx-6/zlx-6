@@ -1,6 +1,6 @@
 ### Hello world!
 - 🌱 I’m currently learning object detection, classification and segmentation
-- 🔭 I’m create a repo about [classfaction](https://github.com/zlx-6/clsnet)
+- 🔭 I’m create a repo about [classification](https://github.com/zlx-6/clsnet)
 
 [![zlx-6's GitHub stats](https://github-readme-stats.vercel.app/api?username=zlx-6&show_icons=true&theme=radical)](https://github.com/zlx-6/github-readme-stats)
 <!--
