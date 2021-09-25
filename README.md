@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning object detection, classification and segmentation
 <!--
 **zlx-6/zlx-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
