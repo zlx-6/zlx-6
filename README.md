@@ -1,7 +1,7 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zlx-6&theme=dark&show_icons=true&icon_color=dark&text_color=718096&bg_color=ffffff&hide_title=true"/>
-
-### Hi there 👋
+### Hello world!
 - 🌱 I’m currently learning object detection, classification and segmentation
+
+[![zlx-6's GitHub stats](https://github-readme-stats.vercel.app/api?username=zlx-6&show_icons=true&theme=radical)](https://github.com/zlx-6/github-readme-stats)
 <!--
 **zlx-6/zlx-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
